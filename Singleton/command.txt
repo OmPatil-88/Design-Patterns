@@ -1,0 +1,2 @@
+g++ -pthread Singleton.cpp -o Singleton
+g++ -pthread SingleTonThreadSafe.cpp -o SingleTonThreadSafe
