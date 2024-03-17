@@ -25,7 +25,7 @@ Eg- Strategy pattern can be implemented with a simple anonymous(lambda) function
 ### All patterns can be categorized by their intent or purpose
 * ***Creational*** patterns provide an object creation mechanism that increases flexibility and reuse of existing code.
     - [x] [Singleton](https://github.com/OmPatil-88/Design-Patterns/tree/master/Singleton)
-    - [x] [Factory Method](https://github.com/OmPatil-88/Design-Patterns/tree/master/Factory Method)
+    - [x] [Factory Method](https://github.com/OmPatil-88/Design-Patterns/tree/master/Factory%20Method)
     - [ ] Abstract Factory
     - [ ] Builder
     - [ ] Prototype
