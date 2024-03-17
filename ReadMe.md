@@ -14,6 +14,7 @@ Eg- Strategy pattern can be implemented with a simple anonymous(lambda) function
     Pattern tries to systematize approaches that are already widely used. This unification is viewed by many as dogma(a belief or set of beliefs that are accepted by a group without being questioned or doubted) and they implement patterns
 * Unjustified use
     > ***"If all you have is a hammer, everything looks like a nail"***
+
     This is the problem that haunts many novices who have just familiarized themselves with patterns. Having learned about patterns, they try to apply them everywhere, even in situations where simpler code would do just fine
     
 
