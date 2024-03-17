@@ -10,7 +10,7 @@ class Singleton
 private:
     static Singleton *singleton;
 
-    // Declare Variabel as per requirement
+    // Declare Variable as per requirement
     std::string str;
 
     Singleton(const std::string str) : str(str)

@@ -12,7 +12,7 @@ private:
     static Singleton *singleton;
     static std::mutex mutex_;
 
-    // Declare Variabel as per requirement
+    // Declare Variable as per requirement
     std::string str;
 
     Singleton(const std::string str) : str(str)
