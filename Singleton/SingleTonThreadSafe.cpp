@@ -60,7 +60,7 @@ Singleton *Singleton::GetInstance(const std::string &value)
         Singleton::singleton = new Singleton(value);
         refCount = 1;
     }
-    refCount;
+    refCount++;
     return singleton;
 }
 
